@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Hoc.net\bai1_lab1_in_ra_man_hinh\bai1_lab1_in_ra_man_hinh\bin\Debug\bai1_lab1_in_ra_man_hinh.exe.config
+C:\Users\Admin\Documents\Hoc.net\bai1_lab1_in_ra_man_hinh\bai1_lab1_in_ra_man_hinh\bin\Debug\bai1_lab1_in_ra_man_hinh.exe
+C:\Users\Admin\Documents\Hoc.net\bai1_lab1_in_ra_man_hinh\bai1_lab1_in_ra_man_hinh\bin\Debug\bai1_lab1_in_ra_man_hinh.pdb
+C:\Users\Admin\Documents\Hoc.net\bai1_lab1_in_ra_man_hinh\bai1_lab1_in_ra_man_hinh\obj\Debug\bai1_lab1_in_ra_man_hinh.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Hoc.net\bai1_lab1_in_ra_man_hinh\bai1_lab1_in_ra_man_hinh\obj\Debug\bai1_lab1_in_ra_man_hinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Hoc.net\bai1_lab1_in_ra_man_hinh\bai1_lab1_in_ra_man_hinh\obj\Debug\bai1_lab1_in_ra_man_hinh.exe
+C:\Users\Admin\Documents\Hoc.net\bai1_lab1_in_ra_man_hinh\bai1_lab1_in_ra_man_hinh\obj\Debug\bai1_lab1_in_ra_man_hinh.pdb
+C:\Users\Admin\Documents\Hoc.net\bai1_lab1_in_ra_man_hinh\bai1_lab1_in_ra_man_hinh\obj\Debug\bai1_lab1_in_ra_man_hinh.exe.config
